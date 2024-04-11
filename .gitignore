@@ -1,0 +1,10 @@
+backend/.env
+backend/Include/
+backend/Scripts/
+backend/Lib/
+backend/share/
+backend/pyvenv.cfg
+backend/etc/
+ui/react-tailwind/node_modules/
+__pycache__/
+ *.pyc
